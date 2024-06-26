@@ -1,2 +1,2 @@
 # my_file
-welecome !!!
+welcome !!!
